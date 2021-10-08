@@ -38,8 +38,8 @@ function createScoreCard(matchPdfPath, team, match) {
     let page = pdfDoc.getPage(0);
 
     page.drawText(t1 + " v/s " + t2, {
-      x: 70,
-      y: 600,
+      x: 150,
+      y: 620,
       size: 23,
       color: pdf.rgb(0.07, 0.12, 0.476),
     });
