@@ -1,0 +1,434 @@
+[
+    {
+        "matchInfo": "Final, Lord's, Jul 14 2019, ICC Cricket World Cup",
+        "team1Name": "New Zealand",
+        "team2Name": "England",
+        "team1Score": "241/8",
+        "team2Score": "241",
+        "resultDescription": "Match tied",
+        "result": 2
+    },
+    {
+        "matchInfo": "2nd Semi-final, Birmingham, Jul 11 2019, ICC Cricket World Cup",
+        "team1Name": "Australia",
+        "team2Name": "England",
+        "team1Score": "223",
+        "team2Score": "226/2",
+        "resultDescription": "England won by 8 wickets (with 107 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "1st Semi-final, Manchester, Jul 9 - 10 2019, ICC Cricket World Cup",
+        "team1Name": "New Zealand",
+        "team2Name": "India",
+        "team1Score": "239/8",
+        "team2Score": "221",
+        "resultDescription": "New Zealand won by 18 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "45th match (D/N), Manchester, Jul 6 2019, ICC Cricket World Cup",
+        "team1Name": "South Africa",
+        "team2Name": "Australia",
+        "team1Score": "325/6",
+        "team2Score": "315",
+        "resultDescription": "South Africa won by 10 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "44th match, Leeds, Jul 6 2019, ICC Cricket World Cup",
+        "team1Name": "Sri Lanka",
+        "team2Name": "India",
+        "team1Score": "264/7",
+        "team2Score": "265/3",
+        "resultDescription": "India won by 7 wickets (with 39 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "43rd match, Lord's, Jul 5 2019, ICC Cricket World Cup",
+        "team1Name": "Pakistan",
+        "team2Name": "Bangladesh",
+        "team1Score": "315/9",
+        "team2Score": "221",
+        "resultDescription": "Pakistan won by 94 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "42nd match, Leeds, Jul 4 2019, ICC Cricket World Cup",
+        "team1Name": "West Indies",
+        "team2Name": "Afghanistan",
+        "team1Score": "311/6",
+        "team2Score": "288",
+        "resultDescription": "West Indies won by 23 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "41st match, Chester-le-Street, Jul 3 2019, ICC Cricket World Cup",
+        "team1Name": "England",
+        "team2Name": "New Zealand",
+        "team1Score": "305/8",
+        "team2Score": "186",
+        "resultDescription": "England won by 119 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "40th match, Birmingham, Jul 2 2019, ICC Cricket World Cup",
+        "team1Name": "India",
+        "team2Name": "Bangladesh",
+        "team1Score": "314/9",
+        "team2Score": "286",
+        "resultDescription": "India won by 28 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "39th match, Chester-le-Street, Jul 1 2019, ICC Cricket World Cup",
+        "team1Name": "Sri Lanka",
+        "team2Name": "West Indies",
+        "team1Score": "338/6",
+        "team2Score": "315/9",
+        "resultDescription": "Sri Lanka won by 23 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "38th match, Birmingham, Jun 30 2019, ICC Cricket World Cup",
+        "team1Name": "England",
+        "team2Name": "India",
+        "team1Score": "337/7",
+        "team2Score": "306/5",
+        "resultDescription": "England won by 31 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "37th match (D/N), Lord's, Jun 29 2019, ICC Cricket World Cup",
+        "team1Name": "Australia",
+        "team2Name": "New Zealand",
+        "team1Score": "243/9",
+        "team2Score": "157",
+        "resultDescription": "Australia won by 86 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "36th match, Leeds, Jun 29 2019, ICC Cricket World Cup",
+        "team1Name": "Afghanistan",
+        "team2Name": "Pakistan",
+        "team1Score": "227/9",
+        "team2Score": "230/7",
+        "resultDescription": "Pakistan won by 3 wickets (with 2 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "35th match, Chester-le-Street, Jun 28 2019, ICC Cricket World Cup",
+        "team1Name": "Sri Lanka",
+        "team2Name": "South Africa",
+        "team1Score": "203",
+        "team2Score": "206/1",
+        "resultDescription": "South Africa won by 9 wickets (with 76 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "34th match, Manchester, Jun 27 2019, ICC Cricket World Cup",
+        "team1Name": "India",
+        "team2Name": "West Indies",
+        "team1Score": "268/7",
+        "team2Score": "143",
+        "resultDescription": "India won by 125 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "33rd match, Birmingham, Jun 26 2019, ICC Cricket World Cup",
+        "team1Name": "New Zealand",
+        "team2Name": "Pakistan",
+        "team1Score": "237/6",
+        "team2Score": "241/4",
+        "resultDescription": "Pakistan won by 6 wickets (with 5 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "32nd match, Lord's, Jun 25 2019, ICC Cricket World Cup",
+        "team1Name": "Australia",
+        "team2Name": "England",
+        "team1Score": "285/7",
+        "team2Score": "221",
+        "resultDescription": "Australia won by 64 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "31st match, Southampton, Jun 24 2019, ICC Cricket World Cup",
+        "team1Name": "Bangladesh",
+        "team2Name": "Afghanistan",
+        "team1Score": "262/7",
+        "team2Score": "200",
+        "resultDescription": "Bangladesh won by 62 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "30th match, Lord's, Jun 23 2019, ICC Cricket World Cup",
+        "team1Name": "Pakistan",
+        "team2Name": "South Africa",
+        "team1Score": "308/7",
+        "team2Score": "259/9",
+        "resultDescription": "Pakistan won by 49 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "29th match (D/N), Manchester, Jun 22 2019, ICC Cricket World Cup",
+        "team1Name": "New Zealand",
+        "team2Name": "West Indies",
+        "team1Score": "291/8",
+        "team2Score": "286",
+        "resultDescription": "New Zealand won by 5 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "28th match, Southampton, Jun 22 2019, ICC Cricket World Cup",
+        "team1Name": "India",
+        "team2Name": "Afghanistan",
+        "team1Score": "224/8",
+        "team2Score": "213",
+        "resultDescription": "India won by 11 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "27th match, Leeds, Jun 21 2019, ICC Cricket World Cup",
+        "team1Name": "Sri Lanka",
+        "team2Name": "England",
+        "team1Score": "232/9",
+        "team2Score": "212",
+        "resultDescription": "Sri Lanka won by 20 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "26th match, Nottingham, Jun 20 2019, ICC Cricket World Cup",
+        "team1Name": "Australia",
+        "team2Name": "Bangladesh",
+        "team1Score": "381/5",
+        "team2Score": "333/8",
+        "resultDescription": "Australia won by 48 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "25th match, Birmingham, Jun 19 2019, ICC Cricket World Cup",
+        "team1Name": "South Africa",
+        "team2Name": "New Zealand",
+        "team1Score": "241/6",
+        "team2Score": "245/6",
+        "resultDescription": "New Zealand won by 4 wickets (with 3 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "24th match, Manchester, Jun 18 2019, ICC Cricket World Cup",
+        "team1Name": "England",
+        "team2Name": "Afghanistan",
+        "team1Score": "397/6",
+        "team2Score": "247/8",
+        "resultDescription": "England won by 150 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "23rd match, Taunton, Jun 17 2019, ICC Cricket World Cup",
+        "team1Name": "West Indies",
+        "team2Name": "Bangladesh",
+        "team1Score": "321/8",
+        "team2Score": "322/3",
+        "resultDescription": "Bangladesh won by 7 wickets (with 51 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "22nd match, Manchester, Jun 16 2019, ICC Cricket World Cup",
+        "team1Name": "India",
+        "team2Name": "Pakistan",
+        "team1Score": "336/5",
+        "team2Score": "212/6",
+        "resultDescription": "India won by 89 runs (D/L method)",
+        "result": 1
+    },
+    {
+        "matchInfo": "21st match (D/N), Cardiff, Jun 15 2019, ICC Cricket World Cup",
+        "team1Name": "Afghanistan",
+        "team2Name": "South Africa",
+        "team1Score": "125",
+        "team2Score": "131/1",
+        "resultDescription": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)",
+        "result": 0
+    },
+    {
+        "matchInfo": "20th match, The Oval, Jun 15 2019, ICC Cricket World Cup",
+        "team1Name": "Australia",
+        "team2Name": "Sri Lanka",
+        "team1Score": "334/7",
+        "team2Score": "247",
+        "resultDescription": "Australia won by 87 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "19th match, Southampton, Jun 14 2019, ICC Cricket World Cup",
+        "team1Name": "West Indies",
+        "team2Name": "England",
+        "team1Score": "212",
+        "team2Score": "213/2",
+        "resultDescription": "England won by 8 wickets (with 101 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "18th match, Nottingham, Jun 13 2019, ICC Cricket World Cup",
+        "team1Name": "India",
+        "team2Name": "New Zealand",
+        "team1Score": "",
+        "team2Score": "",
+        "resultDescription": "Match abandoned without a ball bowled",
+        "result": -1
+    },
+    {
+        "matchInfo": "17th match, Taunton, Jun 12 2019, ICC Cricket World Cup",
+        "team1Name": "Australia",
+        "team2Name": "Pakistan",
+        "team1Score": "307",
+        "team2Score": "266",
+        "resultDescription": "Australia won by 41 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "16th match, Bristol, Jun 11 2019, ICC Cricket World Cup",
+        "team1Name": "Bangladesh",
+        "team2Name": "Sri Lanka",
+        "team1Score": "",
+        "team2Score": "",
+        "resultDescription": "Match abandoned without a ball bowled",
+        "result": -1
+    },
+    {
+        "matchInfo": "15th match, Southampton, Jun 10 2019, ICC Cricket World Cup",
+        "team1Name": "South Africa",
+        "team2Name": "West Indies",
+        "team1Score": "29/2",
+        "team2Score": "",
+        "resultDescription": "No result",
+        "result": -1
+    },
+    {
+        "matchInfo": "14th match, The Oval, Jun 9 2019, ICC Cricket World Cup",
+        "team1Name": "India",
+        "team2Name": "Australia",
+        "team1Score": "352/5",
+        "team2Score": "316",
+        "resultDescription": "India won by 36 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "13th match (D/N), Taunton, Jun 8 2019, ICC Cricket World Cup",
+        "team1Name": "Afghanistan",
+        "team2Name": "New Zealand",
+        "team1Score": "172",
+        "team2Score": "173/3",
+        "resultDescription": "New Zealand won by 7 wickets (with 107 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "12th match, Cardiff, Jun 8 2019, ICC Cricket World Cup",
+        "team1Name": "England",
+        "team2Name": "Bangladesh",
+        "team1Score": "386/6",
+        "team2Score": "280",
+        "resultDescription": "England won by 106 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "11th match, Bristol, Jun 7 2019, ICC Cricket World Cup",
+        "team1Name": "Pakistan",
+        "team2Name": "Sri Lanka",
+        "team1Score": "",
+        "team2Score": "",
+        "resultDescription": "Match abandoned without a ball bowled",
+        "result": -1
+    },
+    {
+        "matchInfo": "10th match, Nottingham, Jun 6 2019, ICC Cricket World Cup",
+        "team1Name": "Australia",
+        "team2Name": "West Indies",
+        "team1Score": "288",
+        "team2Score": "273/9",
+        "resultDescription": "Australia won by 15 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "9th match (D/N), The Oval, Jun 5 2019, ICC Cricket World Cup",
+        "team1Name": "Bangladesh",
+        "team2Name": "New Zealand",
+        "team1Score": "244",
+        "team2Score": "248/8",
+        "resultDescription": "New Zealand won by 2 wickets (with 17 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "8th match, Southampton, Jun 5 2019, ICC Cricket World Cup",
+        "team1Name": "South Africa",
+        "team2Name": "India",
+        "team1Score": "227/9",
+        "team2Score": "230/4",
+        "resultDescription": "India won by 6 wickets (with 15 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "7th match, Cardiff, Jun 4 2019, ICC Cricket World Cup",
+        "team1Name": "Sri Lanka",
+        "team2Name": "Afghanistan",
+        "team1Score": "201",
+        "team2Score": "152",
+        "resultDescription": "Sri Lanka won by 34 runs (D/L method)",
+        "result": 1
+    },
+    {
+        "matchInfo": "6th match, Nottingham, Jun 3 2019, ICC Cricket World Cup",
+        "team1Name": "Pakistan",
+        "team2Name": "England",
+        "team1Score": "348/8",
+        "team2Score": "334/9",
+        "resultDescription": "Pakistan won by 14 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "5th match, The Oval, Jun 2 2019, ICC Cricket World Cup",
+        "team1Name": "Bangladesh",
+        "team2Name": "South Africa",
+        "team1Score": "330/6",
+        "team2Score": "309/8",
+        "resultDescription": "Bangladesh won by 21 runs",
+        "result": 1
+    },
+    {
+        "matchInfo": "4th match (D/N), Bristol, Jun 1 2019, ICC Cricket World Cup",
+        "team1Name": "Afghanistan",
+        "team2Name": "Australia",
+        "team1Score": "207",
+        "team2Score": "209/3",
+        "resultDescription": "Australia won by 7 wickets (with 91 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "3rd match, Cardiff, Jun 1 2019, ICC Cricket World Cup",
+        "team1Name": "Sri Lanka",
+        "team2Name": "New Zealand",
+        "team1Score": "136",
+        "team2Score": "137/0",
+        "resultDescription": "New Zealand won by 10 wickets (with 203 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "2nd match, Nottingham, May 31 2019, ICC Cricket World Cup",
+        "team1Name": "Pakistan",
+        "team2Name": "West Indies",
+        "team1Score": "105",
+        "team2Score": "108/3",
+        "resultDescription": "West Indies won by 7 wickets (with 218 balls remaining)",
+        "result": 0
+    },
+    {
+        "matchInfo": "1st match, The Oval, May 30 2019, ICC Cricket World Cup",
+        "team1Name": "England",
+        "team2Name": "South Africa",
+        "team1Score": "311/8",
+        "team2Score": "207",
+        "resultDescription": "England won by 104 runs",
+        "result": 1
+    }
+]
