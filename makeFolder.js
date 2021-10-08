@@ -12,8 +12,10 @@ let worldCupData = JSON.parse(dataJson);
 // make parent folder
 
 // now make folder to each team inside parent folder
+if (!fs.existsSync(input.dest)) {
+  fs.mkdirSync(input.dest);
+}
 
-fs.mkdirSync(input.dest);
 for (let m in worldCupData) {
   let path1 = path.join(input.dest, m);
   fs.mkdirSync(path1);

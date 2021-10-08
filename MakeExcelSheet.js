@@ -2,7 +2,7 @@
 
 let minimist = require("minimist");
 let args = minimist(process.argv);
-
+let path = require("path");
 let fs = require("fs");
 
 let xl = require("excel4node");
@@ -63,4 +63,10 @@ for (let team in worldCupData) {
       .style(ts);
   }
 }
-wb.write("worldCup.xlsx");
+
+if (!fs.existsSync("worldcup")) {
+  fs.mkdirSync("worldcup");
+}
+
+const excelSheetPath = path.join("worldcup", "worldCup.xlsx");
+wb.write(excelSheetPath);
